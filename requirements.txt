@@ -31,3 +31,5 @@ ipykernel
 dotenv
 
 streamlit
+
+typing
