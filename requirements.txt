@@ -31,3 +31,10 @@ dotenv
 streamlit
 
 typing
+
+langchain_community
+
+pypdf
+
+bs4
+requests
